@@ -30,3 +30,11 @@ Shape.java<br>
 Circle.java<br>
 Triangle.java<br>
 Rectangle.java<br>
+
+## 🛠 Known Issues
+Please check the issues tab.
+
+## 📚 Purpose
+This project was created for **learning and demonstrating Java OOP fundamentals** and is suitable for beginner to intermediate Java developers.
+
+
