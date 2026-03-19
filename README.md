@@ -36,3 +36,6 @@ Please check the issues tab.
 
 ## 📚 Purpose
 This project was created for **learning and demonstrating Java OOP fundamentals** and is suitable for beginner to intermediate Java developers.
+
+## Author 
+Kaelin Kesavjee
